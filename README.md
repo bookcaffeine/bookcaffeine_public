@@ -6,15 +6,11 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
-
 ### [☕️ 북카페인 브로셔 바로가기](https://www.notion.so/teamsparta/19f2dc3ef51481d38ba6e7062c177e45?v=19f2dc3ef51481a58448000cc47f677c&p=19f2dc3ef51480e7ab08d6bb79a07ea8&pm=c)
 
 북카페인은 독서를 더 즐겁고 의미 있게 만들어주는 독서 소감 기록 & 공유 플랫폼입니다.<br/>  
 편리하게 읽고 싶은 책을 정리하고, 소감을 기록하며, 같은 책을 읽은 독자들과 생각을 나눠보세요.
 
-
-<br/>
 <br/>
 
 ## 🛠️ 기술 스택
