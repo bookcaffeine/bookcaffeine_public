@@ -1,6 +1,10 @@
 <p align="center">
-<img src="assets/icons/app-icon-1024x1024@1x.png" alt="App Logo" width="300">
+  <img src="https://github.com/user-attachments/assets/6b72938b-2732-417e-947a-2979672b8b1d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/447e0370-ec65-4b9d-90c5-21f4812fa6cb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ab2bbe6d-6d66-4d26-9a98-073dfcf87818" width="200"/>
+  <img src="https://github.com/user-attachments/assets/845117fa-ff46-433a-b010-b364793ea9be" width="200"/>
 </p>
+
 <br/>
 
 # 📖 북카페인(BookCaffeine)
