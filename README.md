@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b72938b-2732-417e-947a-2979672b8b1d" width="200"/>
-  <img src="https://github.com/user-attachments/assets/447e0370-ec65-4b9d-90c5-21f4812fa6cb" width="200"/>
-  <img src="https://github.com/user-attachments/assets/ab2bbe6d-6d66-4d26-9a98-073dfcf87818" width="200"/>
-  <img src="https://github.com/user-attachments/assets/845117fa-ff46-433a-b010-b364793ea9be" width="200"/>
-</p>
 
-<br/>
 
 # 📖 북카페인(BookCaffeine)
 <br/>
@@ -13,6 +6,15 @@
 독서를 더 즐겁고 의미 있게!  
 북카페인은 독서 소감을 기록하고 공유할 수 있는 플랫폼입니다.  
 읽고 싶은 책을 정리하고, 소감을 남기며, 같은 책을 읽은 독자들과 생각을 나눠보세요.  
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b72938b-2732-417e-947a-2979672b8b1d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/447e0370-ec65-4b9d-90c5-21f4812fa6cb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ab2bbe6d-6d66-4d26-9a98-073dfcf87818" width="200"/>
+  <img src="https://github.com/user-attachments/assets/845117fa-ff46-433a-b010-b364793ea9be" width="200"/>
+</p>
+
 <br/>
 
 ## 📌 다운로드 및 브로셔  
